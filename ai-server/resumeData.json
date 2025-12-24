@@ -1,0 +1,79 @@
+{
+  "name": "Peruri Veera Venkata Durga Mahesh",
+  "headline": "Full Stack Developer | AI/ML Generalist | Problem Solver",
+  "education": "B.Tech in Computer Science and Engineering with specialization in AI at Pragati Engineering College, Andhra Pradesh (2024-2027), expected graduation 2027.",
+  
+  "experience": [
+    "HR Intern at The Entrepreneurship Network (2024)",
+    "Web Development Intern at Anurag IT Solutions (2023)",
+    "Machine Learning Intern at Vaishnav Technologies (2025)",
+    "AI Research Intern at 1M1B Future Leaders (2025)",
+    "Internshala Student Partner ISP 31 (2025)",
+    "Bharat Intern – Web Development Projects (2024)"
+  ],
+
+  "internships": [
+    "The Entrepreneurship Network — HR Intern (2024)",
+    "Anurag IT Solutions — Web Development Intern (2023)",
+    "Vaishnav Technologies — Machine Learning Intern (2025)",
+    "1M1B Future Leaders — AI/ML Internship (2025)",
+    "Internshala — Student Partner ISP 31 (2025)",
+    "Bharat Intern — Web Development Projects (2024)"
+  ],
+
+  "skills": [
+    "Python", "JavaScript", "Java", "C",
+    "React.js", "Flask", "Django", "Node.js",
+    "Tailwind CSS", "Bootstrap", "HTML/CSS",
+    "Git", "GitHub", "Figma", "Firebase",
+    "MySQL", "SQLite", "MongoDB",
+    "NumPy", "Pandas", "Scikit-learn",
+    "TensorFlow", "Keras", "Matplotlib", "Seaborn",
+    "AWS", "Azure", "REST APIs",
+    "UI/UX Design", "Problem Solving", "Data Visualization"
+  ],
+
+  "certifications": [
+    "AWS Cloud Practitioner (2025)",
+    "Microsoft Generative AI Certification (2024)",
+    "Google Digital Marketing (2024)",
+    "IBM AI Engineering Certification",
+    "Reliance Cloud Certification",
+    "Adobe Creative Suite Certification",
+    "ServiceNow Fundamentals",
+    "HP Cloud Certification",
+    "TCS iON Career Edge – Young Professional",
+    "EduSkills AI/ML Certificate",
+    "Simplilearn Data Science Specialization",
+    "Coursera Python Specialization",
+    "Udemy React Masterclass",
+    "Geekster Backend Development Training"
+  ],
+
+  "projects": [
+    "🎵 Rythmize – Tkinter-based Music Player",
+    "📊 Placement Tracker – React + Firebase + Tailwind",
+    "📚 Faculty Management System – Flask + SQLite + Bootstrap",
+    "🌐 Portfolio Website – Dark + Neon interactive site",
+    "✅ Smart Attendance System – QR + Manual Integration",
+    "🤖 AI Resume Assistant – Local JSON-powered Q&A bot",
+    "🌀 DNA Skills Visualizer – Creative Three.js animation"
+  ],
+
+  "achievements": [
+    "Top 10 Finalist – Techquezt Hackathon (2021)",
+    "ITC ISRC Sustainability Champion (2024)",
+    "1M1B Green Internship Certification (2024)",
+    "Best Student Award (2013)",
+    "100% Attendance Award (2015)",
+    "Winner – SEERATH Talent Test (2019)",
+    "Drawing Competition Winner – GAIL India (2019)",
+    "RMC Cup Cricket Championship – Team Captain (2021)"
+  ],
+
+  "personal": {
+    "location": "Rajahmundry, Andhra Pradesh, India",
+    "interests": ["Coding", "AI/ML Research", "Open Source", "UI/UX Design", "Cricket", "Public Speaking"],
+    "languages": ["English", "Telugu", "Hindi"]
+  }
+}
