@@ -2,9 +2,6 @@
   "name": "mahesh-ai-backend",
   "version": "1.0.0",
   "type": "module",
-  "engines": {
-    "node": "18.x"
-  },
   "dependencies": {
     "fuse.js": "^7.1.0"
   }
