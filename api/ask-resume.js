@@ -1,3 +1,7 @@
+export const config = {
+  runtime: "nodejs",
+};
+
 import fs from "fs";
 import Fuse from "fuse.js";
 
